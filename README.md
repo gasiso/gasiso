@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel!
+# Olá, eu sou o Gabriel, sou um desenvolvedor front-end júnior, adoro me atualizar e adquirir conhecimento, sou apaixonado por tecnologia, e sempre procuro buscar por desafios e maneiras de desafiar a mim mesmo. Atualmente trabalho com JavaScript, ReactJS, HTML e CSS, entretanto, sempre estou me aperfeiçoando e aprendendo.
 
 <div>
   <a href="https://github.com/gasiso">
