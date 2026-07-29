@@ -88,10 +88,6 @@ While I'm always open to exploring whatever is needed to solve a problem, these 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gasiso&show_icons=true&theme=transparent&hide_border=true&title_color=5391FE&text_color=888888&icon_color=5391FE&locale=en" alt="GitHub Stats" />
-</div>
-
 <p align="center">
   <i>"Automatize o chato, viva o interessante. / Automate the boring, live the interesting."</i>
 </p>
