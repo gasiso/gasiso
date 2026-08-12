@@ -25,6 +25,16 @@ Here are some of the utility projects I developed for my personal use that are n
       An ultra-lightweight native C# tray utility that prevents the PC from sleeping using the Windows API, requiring no admin rights or fake keystrokes.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/gasiso/chronos">⏱️ Chronos</a></b><br>
+      A premium time management desktop app built with React, Vite, and Electron. Includes timers, alarms, world clock, and a beautiful UI.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/gasiso/WinUpdateCLI">🔄 WinUpdateCLI</a></b><br>
+      A robust command-line Windows Update tool using the native COM API. Supports interactive UI and unattended silent installations.
+    </td>
+  </tr>
 </table>
 
 ### 💻 Stack & Tools I like to use
